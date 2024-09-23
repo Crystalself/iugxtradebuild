@@ -1,0 +1,1 @@
+import{Ia as n,Pb as i,Q as o}from"./chunk-EXCRJQW6.js";var a=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["advisor-profile"]],decls:1,vars:0,template:function(t,p){t&1&&n(0,"router-outlet")},dependencies:[i],encapsulation:2})}}return e})();export{a};
